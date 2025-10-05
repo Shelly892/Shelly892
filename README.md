@@ -1,7 +1,7 @@
 ## 👋Hi, I'm Shuangning！
 ###  👩‍💻 Developer × 🎨 Designer × 🧱 Architect 
 
-From designing physical spaces to crafting digital experiences, I bring 12 years of architectural design into the tech world, translating spatial thinking into elegant code.
+Architectural training built a strong foundation in Design Thinking，integrating function, aesthetics, and user experience into complex system design, a mindset I now apply to software architecture and UX
 
 ---
 ### 💡 About Me
