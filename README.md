@@ -2,39 +2,52 @@
 
 ### 👩‍💻 Software Engineer × 🎨 Designer × 🧱 Architect
 
-From designing physical spaces to building scalable web systems, I bring years of architectural training into the tech world—translating structural thinking into clean, reliable code.
+From designing physical spaces to building scalable web systems, I bring years of architectural training into the tech world, translating structural thinking into clean, reliable code.
 
----
+> With a background in architecture, I naturally approach software with strong system thinking, attention to quality, and a focus on building products that are both well-structured and user-centered.
 
-### 💡 About Me
 
-With a background in architecture, I naturally approach software with strong system thinking, attention to quality, and a focus on building products that are both well-structured and user-centered.
 
-> Every project I build is designed from scratch, from planning and prototyping to implementation and problem-solving, driven by a deep passion for turning complex challenges into intuitive digital solutions.
+### Project Highlights
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🚀 Project Highlights
-
-🎬 [**CineQuest**](https://github.com/Shelly892/CineQuest.git)  
+### 🎬 [CineQuest](https://github.com/Shelly892/CineQuest.git)
 A distributed microservices movie platform using Kafka and gRPC, deployed with Docker and Kubernetes for scalable service orchestration and communication.
 
 - [Source Code](https://github.com/Shelly892/CineQuest.git)
 
-🗽 [**SmartTrip NYC**](https://github.com/imyuanhui/COMP47360)  
+</td>
+<td width="50%" valign="top">
+
+### 🗽 [SmartTrip NYC](https://github.com/imyuanhui/COMP47360)
 An AI-powered itinerary planner that blends real-time urban data and design thinking to help users plan their journeys across NYC.
 
 - [Project Overview](https://drive.google.com/file/d/1z9O58KMDBgk4_T6Lto_-WXY2g-sz0QFv/view?usp=sharing)
 
-🚲 [**Dublin BikeShare App**](https://github.com/Ruiqi-programer/Bike-app-repository)  
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚲 [Dublin BikeShare App](https://github.com/Ruiqi-programer/Bike-app-repository)
 A full-stack web application to explore real-time and historical public bike availability in Dublin.
 
 - [Project Overview](https://drive.google.com/file/d/1fOoaAi7jQ1hFt6WcL0uCnSFSloyZnsQc/view?usp=drive_link)
 
-❤️ [**Heart Disease Risk Analytics Dashboard**](https://github.com/Shelly892/HeartRisk-Analytics.git)  
+</td>
+<td width="50%" valign="top">
+
+### ❤️ [Heart Disease Risk Analytics Dashboard](https://github.com/Shelly892/HeartRisk-Analytics.git)
 A big data analytics dashboard that processes clinical datasets with Hadoop and Hive to deliver interactive risk insights and rule-based scoring.
 
 - [Source Code](https://github.com/Shelly892/HeartRisk-Analytics.git)
+
+</td>
+</tr>
+</table>
 
 ---
 
