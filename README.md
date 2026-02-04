@@ -18,14 +18,15 @@ From designing physical spaces to building scalable web systems, I bring years o
 A distributed microservices movie platform using Kafka and gRPC, deployed with Docker and Kubernetes for scalable service orchestration and communication.
 
 - [Source Code](https://github.com/Shelly892/CineQuest.git)
+- [Project Overview](https://www.youtube.com/watch?v=8hz-Zm07NXQ&t=2s)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗽 [SmartTrip NYC](https://github.com/imyuanhui/COMP47360)
 An AI-powered itinerary planner that blends real-time urban data and design thinking to help users plan their journeys across NYC.
-
-- [Project Overview](https://drive.google.com/file/d/1z9O58KMDBgk4_T6Lto_-WXY2g-sz0QFv/view?usp=sharing)
+- [Source Code](https://github.com/Shelly892/SmartTripNYC.git)
+- [Project Overview](https://www.youtube.com/watch?v=asM0rUBO5zA)
 
 </td>
 </tr>
@@ -34,8 +35,8 @@ An AI-powered itinerary planner that blends real-time urban data and design thin
 
 ### 🚲 [Dublin BikeShare App](https://github.com/Ruiqi-programer/Bike-app-repository)
 A full-stack web application to explore real-time and historical public bike availability in Dublin.
-
-- [Project Overview](https://drive.google.com/file/d/1fOoaAi7jQ1hFt6WcL0uCnSFSloyZnsQc/view?usp=drive_link)
+- [Source Code](https://github.com/Shelly892/Dublin-BikeShare-App.git)
+- [Project Overview](https://www.youtube.com/watch?v=YFmra3evr1Y&t=1s)
 
 </td>
 <td width="50%" valign="top">
@@ -44,6 +45,7 @@ A full-stack web application to explore real-time and historical public bike ava
 A big data analytics dashboard that processes clinical datasets with Hadoop and Hive to deliver interactive risk insights and rule-based scoring.
 
 - [Source Code](https://github.com/Shelly892/HeartRisk-Analytics.git)
+- [Live Demo](https://heartdisease-risk-analytics.netlify.app/)
 
 </td>
 </tr>
