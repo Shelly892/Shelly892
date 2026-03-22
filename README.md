@@ -6,15 +6,20 @@ From designing physical spaces to building scalable web systems, I bring years o
 
 > With a background in architecture, I naturally approach software with strong system thinking, attention to quality, and a focus on building products that are both well-structured and user-centered.
 
-
-
 ### Project Highlights
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
+### 🏛️ [ArchInsight AI ](https://github.com/Shelly892/archinsight_ai)
+
+Full-stack architecture knowledge platform — semantic search, RAG-powered AI agents, and automated ArchDaily data pipeline. Built with Next.js, pgvector, and Vercel AI SDK.
+
+- [Source Code](https://github.com/Shelly892/archinsight_ai)
+
 ### 🎬 [CineQuest](https://github.com/Shelly892/CineQuest.git)
+
 A distributed microservices movie platform using Kafka and gRPC, deployed with Docker and Kubernetes for scalable service orchestration and communication.
 
 - [Source Code](https://github.com/Shelly892/CineQuest.git)
@@ -24,7 +29,9 @@ A distributed microservices movie platform using Kafka and gRPC, deployed with D
 <td width="50%" valign="top">
 
 ### 🗽 [SmartTrip NYC](https://github.com/imyuanhui/COMP47360)
+
 An AI-powered itinerary planner that blends real-time urban data and design thinking to help users plan their journeys across NYC.
+
 - [Source Code](https://github.com/Shelly892/SmartTripNYC.git)
 - [Project Overview](https://www.youtube.com/watch?v=asM0rUBO5zA)
 
@@ -34,18 +41,14 @@ An AI-powered itinerary planner that blends real-time urban data and design thin
 <td width="50%" valign="top">
 
 ### 🚲 [Dublin BikeShare App](https://github.com/Ruiqi-programer/Bike-app-repository)
+
 A full-stack web application to explore real-time and historical public bike availability in Dublin.
+
 - [Source Code](https://github.com/Shelly892/Dublin-BikeShare-App.git)
 - [Project Overview](https://www.youtube.com/watch?v=YFmra3evr1Y&t=1s)
 
 </td>
 <td width="50%" valign="top">
-
-### ❤️ [Heart Disease Risk Analytics Dashboard](https://github.com/Shelly892/HeartRisk-Analytics.git)
-A big data analytics dashboard that processes clinical datasets with Hadoop and Hive to deliver interactive risk insights and rule-based scoring.
-
-- [Source Code](https://github.com/Shelly892/HeartRisk-Analytics.git)
-- [Live Demo](https://heartdisease-risk-analytics.netlify.app/)
 
 </td>
 </tr>
