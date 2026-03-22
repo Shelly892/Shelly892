@@ -18,6 +18,9 @@ Full-stack architecture knowledge platform — semantic search, RAG-powered AI a
 
 - [Source Code](https://github.com/Shelly892/archinsight_ai)
 
+</td>
+<td width="50%" valign="top">
+
 ### 🎬 [CineQuest](https://github.com/Shelly892/CineQuest.git)
 
 A distributed microservices movie platform using Kafka and gRPC, deployed with Docker and Kubernetes for scalable service orchestration and communication.
@@ -26,6 +29,8 @@ A distributed microservices movie platform using Kafka and gRPC, deployed with D
 - [Project Overview](https://www.youtube.com/watch?v=8hz-Zm07NXQ&t=2s)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🗽 [SmartTrip NYC](https://github.com/imyuanhui/COMP47360)
@@ -36,8 +41,6 @@ An AI-powered itinerary planner that blends real-time urban data and design thin
 - [Project Overview](https://www.youtube.com/watch?v=asM0rUBO5zA)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🚲 [Dublin BikeShare App](https://github.com/Ruiqi-programer/Bike-app-repository)
@@ -48,9 +51,7 @@ A full-stack web application to explore real-time and historical public bike ava
 - [Project Overview](https://www.youtube.com/watch?v=YFmra3evr1Y&t=1s)
 
 </td>
-<td width="50%" valign="top">
 
-</td>
 </tr>
 </table>
 
